@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37622" started-at="2019-12-14T11:17:16Z" finished-at="2019-12-14T11:17:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37622" started-at="2019-12-14T11:17:16Z" finished-at="2019-12-14T11:17:54Z">
+      <class name="com.SearchProductTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.SearchProductTest@3bfdc050]" name="initialization" is-config="true" duration-ms="19970" started-at="2019-12-14T11:17:16Z" finished-at="2019-12-14T11:17:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.SearchProductTest@3bfdc050]" name="LoginTest" duration-ms="2110" started-at="2019-12-14T11:17:36Z" finished-at="2019-12-14T11:17:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="Searching()[pri:0, instance:com.SearchProductTest@3bfdc050]" name="Searching" duration-ms="15447" started-at="2019-12-14T11:17:39Z" finished-at="2019-12-14T11:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Searching -->
+      </class> <!-- com.SearchProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
